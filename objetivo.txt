@@ -1,0 +1,23 @@
+
+Reporteador Universal  
+
+1.- Desarrollar un reporteador para tener acceso a todos los reporteadores 
+
+2.- Desarrollar un login con el sistema de casa 
+
+3.- Desarrollar links para todas las plataformas de estudio 
+
+4.- Desarrollar una lista de alumnos de pruebas de todas las plataformas de estudios 
+
+5.- Desarrollo de pantalla para genera la informacion para los reporteadores 
+
+6.- Desarrollo de pantalla para agregar casos especiales y alumnos con promociones 
+
+7.- Desarrollo de pantalla para actualizar la mesualidad activa de MDN 
+
+8.-Desarrollo de pantalla para monitorear alumnos con mas de 4 cargas al mes, alumnos con mas de dos cargas en su mes de inscripcione. 
+
+9.- Desarrollo de pantalla de casos que pueden generar problemas en las plataformas 
+
+10.- Desarrollo de pantalla para cargar materias de manera masiva a alumnos 
+
