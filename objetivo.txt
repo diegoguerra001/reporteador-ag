@@ -1,6 +1,10 @@
 
 Reporteador Universal  
 
+Desarrollador : Diego Guerra 
+
+Fecha de inicio : 2021-11-04 10:20 PM 
+
 1.- Desarrollar un reporteador para tener acceso a todos los reporteadores 
 
 2.- Desarrollar un login con el sistema de casa 
